@@ -1,3 +1,4 @@
+![python 1](https://user-images.githubusercontent.com/72308844/129773019-71bc9b20-c523-4f40-976e-347519509d7f.PNG)
 # GeneticAlgo
 This program is written based on Evolution theory/survival of the fittest.
 This function will find the maximum possible value of any given function between the range of -2^n to 2^n where n is the bitcount.
