@@ -1,5 +1,5 @@
 # GeneticAlgo
-This program is writter based on Evolution theory/survival of the fittest.
+This program is written based on Evolution theory/survival of the fittest.
 This function will find the maximum possible value of any given function between the range of -2^n to 2^n where n is the bitcount.
 Main.py is the main file and doesnt require any other library to be imported
 
