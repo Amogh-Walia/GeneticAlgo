@@ -2,6 +2,7 @@
 This program is written based on Evolution theory/survival of the fittest.
 This function will find the maximum possible value of any given function between the range of -2^n to 2^n where n is the bitcount.
 Main.py is the main file and doesnt require any other library to be imported
+Main_test.py is the multiple variable function however it's driver code is fitted to run 2 variable functions, it will be rewritten in future commits.
 
 
 The code works by converting randomly generated floats into "Chromosome" objects which have an array (represnting the float as binary number) and then taking this "Gene" array
